@@ -1,0 +1,57 @@
+[
+    {
+        "image": "../source/song_1.jpeg",
+        "audioSrc": "../source/song_1.flac",
+        "name": "薛之谦",
+        "album": "鹿",
+        "singer": "薛之谦",
+        "duration": 272,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_2.jpg",
+        "audioSrc": "../source/song_2.flac",
+        "name": "四季予你",
+        "album": "四季予你",
+        "singer": "程响",
+        "duration": 248,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_3.jpg",
+        "audioSrc": "../source/song_3.flac",
+        "name": "年少有为",
+        "album": "年少有为",
+        "singer": "李荣浩",
+        "duration": 279,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_4.jpg",
+        "audioSrc": "../source/song_4.flac",
+        "name": "不知所错",
+        "album": "不知所措",
+        "singer": "王靖雯不胖",
+        "duration": 248,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_5.jpg",
+        "audioSrc": "../source/song_5.flac",
+        "name": "忘了没有",
+        "album": "忘了没有",
+        "singer": "王靖雯不胖",
+        "duration": 257,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_6.jpg",
+        "audioSrc": "../source/song_6.flac",
+        "name": "遗憾也值得",
+        "album": "遗憾也值得",
+        "singer": "王靖雯不胖",
+        "duration": 244,
+        "isLike": true
+    }
+
+]
